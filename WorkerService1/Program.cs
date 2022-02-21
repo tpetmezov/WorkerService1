@@ -20,5 +20,6 @@ namespace WorkerService1
                 {
                     services.AddHostedService<Worker>();
                 });
+
     }
 }
